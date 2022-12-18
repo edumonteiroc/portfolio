@@ -1,0 +1,235 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Source Sans Pro;
+    
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(fotos_teste_wallpaper/testewall1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+    
+}
+/*------------------------INICIO DO NAV--------------------------*/
+/* -----OBS nav black */
+.nav_bar{
+    background-color: black;
+}
+.navegation{
+    text-align: center;
+}
+ul{
+    display: inline-flex;    
+        
+}
+li{
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;    
+    font-weight: bold;
+}
+ul a{
+    text-decoration: none;
+    color: white !important;
+    padding: 5px;
+    margin: 5px;    
+}
+
+
+/*------------------------FIM DO NAV--------------------------*/
+
+
+/*------------------------INICIO DOS SLIDES--------------------------*/
+
+/* -----OBS body alpha */
+#allslides{
+    background-color: rgba(1,1,1,0.20);
+    
+    
+}
+/*------------------------INICIO DO SLIDE1--------------------------*/
+#slide1{
+
+    text-align: center;
+    height: 450px;
+}
+#versiculo{    
+    padding-top: 20vh;
+    
+}
+#versiculo h4{
+    font-family: Old Standard TT;
+    color: #6833e4;
+    animation-duration: 1.5s;
+}
+/*------------------------FIM DO SLIDE1--------------------------*/
+
+/*------------------------INICIO DO SLIDE2--------------------------*/
+
+#aboutme{
+
+    text-align: center;
+    height: 450px;
+    
+}
+.descricao{
+    width: 80vw;
+    padding-top: 20vh;
+    padding-left: 30vw;
+    color: #6833e4;
+    font-size: 30px;
+    
+
+}
+/*------------------------FIM DO SLIDE2--------------------------*/
+
+/*------------------------INICIO DO SLIDE3--------------------------*/
+#slide3{
+
+    height: 450px;
+}
+
+#hability{
+    padding-top: 20vh;
+    padding-left: 15vw;
+    color: #6833e4;
+}
+#hability img{
+    height: 20px;
+}
+/*------------------------FIM DO SLIDE3--------------------------*/
+
+/*------------------------INICIO DO SLIDE4--------------------------*/
+#slide4{
+
+    height: 450px;
+    
+}
+
+#cards{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-content: center;
+    margin-left: 120px;
+    margin-top: 50px;   
+    
+}
+
+.card1{
+    background: #6833e4;
+    height: 10em;
+    margin: 20px;
+    width: 8em;
+    border-radius: 20px;
+}
+
+.card1 a{
+    text-decoration: none;
+    color: white;
+}
+.card1 a:hover{
+    color: white;
+}
+
+.card2{
+    background: #6833e4;
+    height: 10em;
+    margin: 20px;
+    width: 8em;
+    border-radius: 20px;
+}
+.card2 a{
+    text-decoration: none;
+    color: white;
+}
+.card2 a:hover{
+    color: white;
+}
+
+.card3{
+    background: #6833e4;
+    height: 10em;
+    margin: 20px;
+    width: 8em;
+    border-radius: 20px;
+}
+.card3 a{
+    text-decoration: none;
+    color: white;
+}
+.card3 a:hover{
+    color: white;
+}
+.card4{
+    background: #6833e4;
+    height: 10em;
+    margin: 20px;
+    width: 8em;
+    border-radius: 20px;
+}
+.card4 a{
+    text-decoration: none;
+    color: white;
+}
+.card4 a:hover{
+    color: white;
+}
+/*------------------------FIM DO SLIDE4--------------------------*/
+
+/*------------------------INICIO DO SLIDE5--------------------------*/
+
+#slide5{
+    
+    height: 450px;
+}
+
+#endereco{   
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+    
+
+.contact{
+    color: #6833e4;
+
+
+}
+/*------------------------FIM DO SLIDE5--------------------------*/
+
+
+/*------------------------INICIO DAS REDES SOCIAIS--------------------------*/
+
+#redes{
+    padding-left: 17em;
+
+
+}
+
+.git{
+    height: 30px;
+}
+
+.linkedin{
+    height: 30px;
+}
+.instagram{
+    height: 30px;
+}
+.whats{
+    height: 30px;
+}
+
+
+/*------------------------INICIO DO DarkMode--------------------------*/
+
+/*------------------------FIM DO DARKSIDE--------------------------*/
+
+
